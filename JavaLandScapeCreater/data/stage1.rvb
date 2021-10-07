@@ -1,0 +1,9 @@
+A0->C20=water,1500
+D0->F3=building
+H2->I16=mountain,2100
+H2->S4=road,420
+J4->Q13=grass,120
+H2=train red
+C16=boat blue
+S2=car red
+H3=train blue
